@@ -11,3 +11,4 @@ PMO業務およびCodex活用につなげる。
 - Day2：Commitを学習
 - Day3：Branch / Mergeを学習
 - Day4：Pull Request / Reviewを学習
+- Day5：Issueによる課題管理を学習
