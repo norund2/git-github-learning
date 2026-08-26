@@ -10,3 +10,4 @@ PMO業務およびCodex活用につなげる。
 - Day1：Git / GitHub / Repositoryの基本を理解
 - Day2：Commitを学習
 - Day3：Branch / Mergeを学習
+- Day4：Pull Request / Reviewを学習
